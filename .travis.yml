@@ -40,7 +40,6 @@ deploy:
     acl: public_read
     detect_encoding: true
     on:
-      repo: airavata-courses/TeamBash 
       branch: feature/feature-3-data-ingestor
  
   - provider: codedeploy
@@ -53,6 +52,5 @@ deploy:
     deployment_group: TeamBash-App
     region: us-west-2
     on:
-      repo: airavata-courses/TeamBash
       branch: feature/feature-3-data-ingestor
 
