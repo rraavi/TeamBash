@@ -9,3 +9,7 @@ Weather Predictor - Milestone -1
 ==============================
 
 Build Status - Storm Clustering MicroService  : [![Build Status](https://travis-ci.org/airavata-courses/TeamBash.svg?branch=feature%2Ffeature-5-storm-clustering)](https://travis-ci.org/airavata-courses/TeamBash)
+
+Instructions  Manual
+---------------------------
+Please refer to README.md on the master for build instructions. 
