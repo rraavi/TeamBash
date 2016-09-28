@@ -9,3 +9,7 @@ Weather Predictor - Milestone -1
 ==============================
 
 Build Status - DataIngestor MicroService  : [![Build Status](https://travis-ci.org/airavata-courses/TeamBash.svg?branch=feature%2Ffeature-3-data-ingestor)](https://travis-ci.org/airavata-courses/TeamBash)
+
+Instructions  Manual
+---------------------------
+Please refer to README.md on the master branch for build instructions. 
